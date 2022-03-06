@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Lisa Respers France, CNN",
+  "title": "Oscar nominations 2022: See the full list of nominees - CNN",
+  "description": "The nominations for the 94th Academy Awards were announced Tuesday and included films in a wide range of genres.",
+  "url": "https://www.cnn.com/2022/02/08/entertainment/oscar-nominations-list-2022/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211118150216-03-encanto-disney-super-tease.jpg",
+  "publishedAt": "2022-02-08T14:11:00Z",
+  "content": null
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "WESH Orlando"
+  },
+  "author": null,
+  "title": "Detectives identify woman who fell to her death from Florida drawbridge as 79-year-old - WESH 2 Orlando",
+  "description": "\"She had almost reached the end of the bridge, about 10 feet from the end, the bridge went up at some point and she tried to hold on and she couldn’t.\"",
+  "url": "https://www.wesh.com/article/florida-drawbridge-death/39010529",
+  "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/bridge-1644237941.jpg?crop=0.966xw:1.00xh;0.0176xw,0&resize=1200:*",
+  "publishedAt": "2022-02-08T13:41:00Z",
+  "content": "PALM BEACH, Fla. —Officials have identified a woman who fell about 50 feet to her death from a Florida drawbridge Sunday. \r\nInvestigators said the 79-year-old West Palm Beach resident was walking her… [+2128 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Jacqueline Howard, CNN",
+  "title": "As states plan to lift school mask mandates, CDC remains vague on updating its guidance - CNN",
+  "description": "As many states see declines in their daily Covid-19 case numbers and hospitalization rates, some have moved forward with plans to lift a significant mitigation measure: mask mandates in schools.",
+  "url": "https://www.cnn.com/2022/02/08/health/states-lift-school-mask-mandates-cdc/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220208071305-new-jersey-school-covid-masks-042921-super-tease.jpg",
+  "publishedAt": "2022-02-08T13:30:00Z",
+  "content": null
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New York Times"
+  },
+  "author": "Gaia Pianigiani, Elisabetta Povoledo",
+  "title": "Retired Pope Asks Forgiveness Over Handling of Abuse Cases - The New York Times",
+  "description": "But Benedict, responding to a report that accused him of mishandling at least four cases of sexual abuse by priests when he was an archbishop in Germany, denied any wrongdoing.",
+  "url": "https://www.nytimes.com/2022/02/08/world/europe/pope-benedict-abuse-germany.html",
+  "urlToImage": "https://static01.nyt.com/images/2022/02/08/world/08vatican-abuse/08vatican-abuse-facebookJumbo.jpg",
+  "publishedAt": "2022-02-08T13:13:48Z",
+  "content": "On Tuesday, Benedict recalled again that he had met with dozens of abuse victims during his eight-year papacy and over many apostolic trips. He had, he said, seen at first hand the effects of a most … [+978 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Ben Church, CNN",
+  "title": "US skateboarder Josh Neuman, 22, among four people killed in Iceland plane crash - CNN",
+  "description": "US skateboarder and filmmaker Josh Neuman was one of four people killed in a plane crash in Iceland, local authorities confirmed.",
+  "url": "https://www.cnn.com/2022/02/08/sport/josh-neuman-iceland-plane-crash-spt-intl/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220208105946-josh-neuman-insta-super-tease.jpg",
+  "publishedAt": "2022-02-08T12:34:00Z",
+  "content": "(CNN)US skateboarder and filmmaker Josh Neuman was one of four people killed in a plane crash in Iceland, local authorities confirmed.\r\nNeuman, who produced skateboarding videos for almost 1.2 millio… [+1970 chars]"
+  },
+  {
+  "source": {
+  "id": "cbs-news",
+  "name": "CBS News"
+  },
+  "author": "Caroline Caroline",
+  "title": "Biden science adviser Eric Lander resigns after acknowledging \"demeaning\" conduct - CBS News",
+  "description": "White House press secretary Jen Psaki confirmed he had been investigated after a complaint was filed.",
+  "url": "https://www.cbsnews.com/news/eric-lander-biden-science-adviser-resignation-demeaning-conduct/",
+  "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/08/5ad59c9c-434e-4788-a05d-96cc44ac889e/thumbnail/1200x630/4fdfd995abd31ad268e9e15c857adbec/ap22038467429989.jpg",
+  "publishedAt": "2022-02-08T12:34:00Z",
+  "content": "Dr. Eric Lander, a top science adviser to President Biden, resigned Monday night. His resignation comes hours after White House press secretary Jen Psaki confirmed he had been investigated over a com… [+2160 chars]"
+  },
+  {
+  "source": {
+  "id": "reuters",
+  "name": "Reuters"
+  },
+  "author": null,
+  "title": "China gushes over Su and Gu, but Zhu mocking rolls on - Reuters",
+  "description": "The Chinese public on Monday gushed over teen heroes Su Yiming and Eileen Gu after their much anticipated appearances on the Olympic slopes as a prominent pundit urged the country's netizens to stop panning foreign-born figure skater Zhu Yi.",
+  "url": "https://www.reuters.com/lifestyle/sports/china-gushes-over-su-gu-zhu-mocking-rolls-2022-02-07/",
+  "urlToImage": "https://www.reuters.com/resizer/5yvEyioKTkK_3x1CgLINAsyj2nk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GKLQTFOKLFI3NGQBF6EGMPMOHI.jpg",
+  "publishedAt": "2022-02-08T12:12:00Z",
+  "content": "Feb 7 (Reuters) - The Chinese public on Monday gushed over teen heroes Su Yiming and Eileen Gu after their much anticipated appearances on the Olympic slopes as a prominent pundit urged the country's… [+3072 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "New York Post"
+  },
+  "author": "Emily Crane",
+  "title": "Trump tells Joe Rogan to 'stop apologizing' during Spotify podcast saga - New York Post ",
+  "description": "Former President Donald Trump said Joe Rogan should “stop apologizing” to leftie “lunatics” amid his ongoing Spotify podcast controversy.",
+  "url": "https://nypost.com/2022/02/08/trump-tells-joe-rogan-to-stop-apologizing-during-spotify-saga/",
+  "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/trump-rogan-apology-comp-1.jpg?quality=90&strip=all&w=1024",
+  "publishedAt": "2022-02-08T12:10:00Z",
+  "content": "Former President Donald Trump said Joe Rogan should “stop apologizing” to leftie “lunatics” amid his ongoing Spotify podcast controversy.\r\n“Joe Rogan is an interesting and popular guy, but he’s got t… [+1911 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Space.com"
+  },
+  "author": "Samantha Mathewson",
+  "title": "You can still see the SpaceX Falcon 9 booster on a collision course with the moon in a live webcast today - Space.com",
+  "description": "Weather permitting, the Virtual Telescope in Italy will have live views at 1 pm. EST (1800 GMT), and you can track it on your own, too.",
+  "url": "https://www.space.com/spacex-falcon-9-rocket-moon-crash-tracking-webcast",
+  "urlToImage": "https://cdn.mos.cms.futurecdn.net/gudSSiiRNGZVAnEpF6bB6g-1200-80.jpeg",
+  "publishedAt": "2022-02-08T12:05:14Z",
+  "content": "Update for Feb. 8: The Virtual Telescope Project will hold a second webcast today, Feb. 8, to show live views of SpaceX's out-of-control Falcon 9 booster on course to hit the moon. The webcast will b… [+3305 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Guardian"
+  },
+  "author": "Guardian staff reporter",
+  "title": "USA women’s hockey team beaten by Canada before knockout stage - The Guardian",
+  "description": "Canada defeated the US women’s ice hockey team in a group-stage clash ahead of a probable rematch next week for the Olympic gold medal",
+  "url": "https://amp.theguardian.com/sport/2022/feb/08/usa-womens-hockey-team-beaten-by-canada-ahead-of-knockout-stage",
+  "urlToImage": null,
+  "publishedAt": "2022-02-08T11:57:40Z",
+  "content": "Winter Olympics Beijing 2022<ul><li>Canadians claim top seed as tournament enters playoff round</li><li>The global hockey powers expected to meet again in final</li></ul>\r\nMarie-Philip Poulin capped … [+4263 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Paula Newton and Travis Caldwell, CNN",
+  "title": "Canadian protesters block access to the busiest international crossing in North America as demonstrations against Covid-19 measures continue - CNN",
+  "description": "Canadian protesters have blocked access to the busiest international crossing in North America in yet another demonstration of their grievances against the nation's Covid-19 rules.",
+  "url": "https://www.cnn.com/2022/02/08/americas/canada-trucker-protests-covid-tuesday/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220208013418-ambassador-bridge-closure-aerial-02072022-super-tease.jpeg",
+  "publishedAt": "2022-02-08T11:16:00Z",
+  "content": "(CNN)Canadian protesters have blocked access to the busiest international crossing in North America in yet another demonstration of their grievances against the nation's Covid-19 rules.\r\nAfter idling… [+5477 chars]"
+  },
+  {
+  "source": {
+  "id": "the-washington-post",
+  "name": "The Washington Post"
+  },
+  "author": "Nitasha Tiku",
+  "title": "He bought a Super Bowl ad to give away millions in crypto. His real targets are regulators. - The Washington Post",
+  "description": "FTX chief executive Sam Bankman-Fried bought a Super Bowl ad that promises to give away millions in Bitcoin. But his real targets are American regulators.",
+  "url": "https://www.washingtonpost.com/technology/2022/02/08/29-year-old-ceo-pushes-crypto-company-during-super-bowl-by-giving-away-millions-bitcoin/",
+  "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3X36HUDMAI6ZFI4DYGMG4R6KM.jpg&w=1440",
+  "publishedAt": "2022-02-08T11:01:13Z",
+  "content": "Co-founder and chief executive Sam Bankman-Fried, who recently moved FTXs headquarters from Hong Kong to the Bahamas, says the ads are as much about courting U.S. regulators as getting customers to d… [+5373 chars]"
+  },
+  {
+  "source": {
+  "id": "the-wall-street-journal",
+  "name": "The Wall Street Journal"
+  },
+  "author": "Cara Lombardo",
+  "title": "Peloton CEO John Foley to Step Down, Become Executive Chair - The Wall Street Journal",
+  "description": "Exercise-equipment maker to name former Spotify CFO Barry McCarthy as replacement, overhaul board and cut costs",
+  "url": "https://www.wsj.com/articles/peloton-ceo-john-foley-to-step-down-become-executive-chair-11644314403",
+  "urlToImage": "https://images.wsj.net/im-481703/social",
+  "publishedAt": "2022-02-08T10:00:00Z",
+  "content": "Peloton Interactive Inc.\r\n PTON 20.93%\r\nplans to replace its chief executive, cut costs and overhaul its board after a slowdown in demand caused the once-hot bike makers value to plummet.Peloton co-f… [+4595 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "HuffPost"
+  },
+  "author": "Lee Moran",
+  "title": "U.S. Figure Skater Vincent Zhou Addresses COVID Diagnosis In Tearful Video - HuffPost",
+  "description": "“I’ve isolated myself so much that the loneliness I’ve felt in the last month or two has been crushing at times,\" Zhou said of his forced withdrawal from Beijing 2022.",
+  "url": "https://www.huffpost.com/entry/vincent-zhou-covid-winter-olympics_n_6202353fe4b0500424322946",
+  "urlToImage": "https://img.huffingtonpost.com/asset/620237fb360000972824e51e.png?cache=a5Po4cPUBb&ops=1778_1000",
+  "publishedAt": "2022-02-08T09:50:38Z",
+  "content": "U.S. figure skater Vincent Zhou, in a tearful video message on Instagram, talked about the crushing loneliness of having to isolate ahead of the 2022 Winter Olympics, only to test positive for COVID-… [+894 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Simone McCarthy and Hannah Ritchie, CNN",
+  "title": "Olympians pushed to their limits over uncompromising Beijing Covid-19 controls - CNN",
+  "description": "Weeks-long isolation, repeat stints in quarantine and sub-par meals -- these are conditions that some Olympic athletes snared in Beijing's stringent system for controlling Covid-19 say they are contending with, and some are pushing back.",
+  "url": "https://www.cnn.com/2022/02/08/china/athletes-beijing-olympics-isolation-covid-19-controls-intl-hnk/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220207233521-olympic-village-ppe-file-02012022-restricted-super-tease.jpg",
+  "publishedAt": "2022-02-08T09:47:00Z",
+  "content": null
+  },
+  {
+  "source": {
+  "id": "fox-news",
+  "name": "Fox News"
+  },
+  "author": "Daniel Canova",
+  "title": "Bengals' Joe Burrow delivers valuable lesson to young athletes: 'Work in silence' - Fox News",
+  "description": "Cincinnati Bengals quarterback Joe Burrow spoke to reporters days before the Super Bowl and gave important advice to young athletes who use social media on a daily basis.",
+  "url": "https://www.foxnews.com/sports/bengals-joe-burrow-valuable-lesson-young-athletes-work-in-silence",
+  "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/Joe-Burrow14.jpg",
+  "publishedAt": "2022-02-08T09:31:08Z",
+  "content": "Cincinnati Bengals quarterback Joe Burrow spoke to reporters days before the Super Bowl and gave important advice to young athletes who use social media on a daily basis.\r\nCLICK HERE FOR MORE SPORTS … [+1937 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "PhoneArena"
+  },
+  "author": "Daniel Petrov",
+  "title": "All Galaxy S22 Ultra color versions previewed on video along with the Tab S8 Ultra - PhoneArena",
+  "description": "The Galaxy S22 Ultra, S22, and Tab S8 Ultra get a video preview for the first time.",
+  "url": "https://www.phonearena.com/news/All-Galaxy-S22-Ultra-color-versions-previewed-on-video-along-with-the-Tab-S8-Ultra_id138329",
+  "urlToImage": "https://m-cdn.phonearena.com/images/article/138329-wide-two_1200/All-Galaxy-S22-Ultra-color-versions-previewed-on-video-along-with-the-Tab-S8-Ultra.jpg",
+  "publishedAt": "2022-02-08T09:13:39Z",
+  "content": "This is our new notification center.\r\n Inside, you will find updates on the most important things happening right now.\r\nGot it"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Seeking Alpha"
+  },
+  "author": "Yoel Minkoff",
+  "title": "Nvidia-Arm deal collapses; Arm to IPO with new CEO - Seeking Alpha",
+  "description": "It's official. Nvidia's (NVDA) planned acquisition of Arm (ARMHF) from SoftBank (SFTBY) has been terminated due to \"significant regulatory challenges.\" Nvidia had been seeking a...",
+  "url": "https://seekingalpha.com/news/3797014-nvidia-arm-deal-collapses-arm-to-ipo-with-new-ceo",
+  "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/835392184/image_835392184.jpg?io=getty-c-w750",
+  "publishedAt": "2022-02-08T09:02:00Z",
+  "content": "D-Keine/E+ via Getty Images\r\nIt's official. Nvidia's (NASDAQ:NVDA) planned acquisition of Arm (ARMHF) from SoftBank (OTCPK:SFTBY) has been terminated due to \"significant regulatory challenges.\" Nvidi… [+1787 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "TMZ"
+  },
+  "author": "TMZ Staff",
+  "title": "'Tinder Swindler' Simon Leviev Banned From Other Dating Apps - TMZ",
+  "description": "Simon Leviev -- better known as the \"Tinder Swindler\" -- is going to have a hard time finding new victims on dating apps ... because he's been booted from just about everywhere!",
+  "url": "https://www.tmz.com/2022/02/08/tinder-swindler-simon-leviev-banned-dating-apps/",
+  "urlToImage": "https://imagez.tmz.com/image/7c/16by9/2022/02/07/7ca31e216b0d49bab352c6525ff26ada_xl.jpg",
+  "publishedAt": "2022-02-08T08:50:00Z",
+  "content": "Simon Leviev -- aka the \"Tinder Swindler\" -- is gonna have a hard time finding new victims on dating apps ... because he's been booted from just about everywhere!\r\nA rep for Match Group -- owners of … [+1345 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Tim Lister, CNN",
+  "title": "Experts are speculating over Russia's next move. They may want to check Ukraine's weather forecast - CNN",
+  "description": "Even in the 21st century, warfare is affected by weather -- and that may become a factor in any Russian offensive into Ukraine. The question on the lips of Ukrainians, and maybe Russian generals: \"Has Rasputitsa come early?\"",
+  "url": "https://www.cnn.com/2022/02/08/europe/ukraine-russia-weather-climate-intl/index.html",
+  "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220207164946-03-ukraine-russia-climate-super-tease.jpg",
+  "publishedAt": "2022-02-08T08:47:00Z",
+  "content": "Mariupol, Ukraine (CNN)Even in the 21st century, warfare is affected by weather -- and that may become a factor in any Russian offensive into Ukraine. The question on the lips of Ukrainians, and mayb… [+8289 chars]"
+  }
+  ]
+  }
